@@ -4,4 +4,4 @@ A school project for zumo robot simulator. More info about the assignment in the
 Creators: <br>
 [Elmo Vahvaselkä](https://github.com/ElmoVah)<br>
 [aikkuvo333](https://github.com/aikkuvo333)<br>
-[ElkkaGitHub](https://github.com/ElkkaGitHub)
+[ElkkaGitHub](https://github.com/ElkkaGitHub) <br>
