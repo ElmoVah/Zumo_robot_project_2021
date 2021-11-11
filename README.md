@@ -1,4 +1,4 @@
-# Zumo_robot_project_2021
+# Zumo robot project 2021
 A school project for zumo robot simulator. More info about the assignment in the pdf file.
 
 Creators: <br>
